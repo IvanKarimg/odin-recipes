@@ -1,2 +1,2 @@
 # odin-recipes
-First Odin Project utilizing HTML, images and links
+HTML Exercise - Recipes This is the first project for TOP. It is testing basic HTML - lists, links, images and file structure, as well as use of GIT, GITHub.
